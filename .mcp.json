@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "github": {
+      "command": "npx",
+      "args": ["@modelcontextprotocol/server-github"]
+    },
+    "gmail": {
+      "command": "npx",
+      "args": ["@modelcontextprotocol/server-gmail"]
+    },
+    "notion": {
+      "command": "npx",
+      "args": ["@modelcontextprotocol/server-notion"]
+    }
+  }
+}
