@@ -1,0 +1,6 @@
+{
+  "name": "claude-agent-asset-manager",
+  "version": "1.0.0",
+  "description": "자산관리 에이전트",
+  "dependencies": {}
+}
